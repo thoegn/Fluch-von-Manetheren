@@ -1,0 +1,1 @@
+While you’re out of sight from all foes and they don’t know where you are, you gain the Hidden condition. While you’re Hidden, any rolls against you have disadvantage.

@@ -1,0 +1,1 @@
+Spend a Hope and roll a d6 advantage die to add to an ally’s roll. If the ally has gained advantage on a roll from multiple sources, they only add the highest result to their roll.

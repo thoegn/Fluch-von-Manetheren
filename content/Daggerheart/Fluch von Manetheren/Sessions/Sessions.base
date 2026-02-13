@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "Session"
+        - file.folder != "Templates"
+    order:
+      - file.name
+      - location
+      - date
+      - SessionNr.
+    columnSize:
+      note.SessionNr.: 97

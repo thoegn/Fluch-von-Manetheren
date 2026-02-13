@@ -1,0 +1,1 @@
+If you would mark your tenth handful, you instead mark a bag and erase all your handfuls. If you would mark your tenth bag, you instead mark a chest and erase your bags. You start with one handful of gold.
