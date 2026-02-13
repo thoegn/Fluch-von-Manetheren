@@ -1,1 +1,0 @@
-Experience represents your character’s particular specializations your character has. These are narrative tags that you create to refl ect what your character is skilled in. When they apply to the scene, you can spend a Hope before the action roll to add an Experience’s value as a modifier. You earn more Experiences throughout a campaign.

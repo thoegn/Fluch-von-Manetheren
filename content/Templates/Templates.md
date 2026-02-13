@@ -1,6 +1,0 @@
-- [[General Template]]
-- [[NPC Template]]
-- [[Session Template]]
-- [[Städte Template]]
-- [[Gruppierung Template]]
-- 

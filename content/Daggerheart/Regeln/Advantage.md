@@ -1,1 +1,0 @@
-Add a d6 advantage die to your roll.

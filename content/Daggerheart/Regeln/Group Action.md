@@ -1,1 +1,0 @@
-Nominate a leader of the action. All other participants in the group action roll make a reaction roll using whichever traits they and the GM decide best fi t (they don’t need to use the same traits). The leader then makes an action roll. Their action roll gains a +1 bonus for each reaction roll that succeeds and a −1 penalty for each reaction roll that fails.

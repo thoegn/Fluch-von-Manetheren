@@ -1,1 +1,0 @@
-You spend Hope to use an Experience (details below), Help an Ally, use a Hope Feature, or initiate a Tag Team Roll. When you Help an Ally, you explain how you’re aiding them and roll a d6 advantage die they add to their action roll total. You start with 2 Hope marked.

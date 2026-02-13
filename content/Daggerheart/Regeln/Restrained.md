@@ -1,1 +1,0 @@
-When a creature has the Restrained condition, they can’t move, but they can still take actions from their current position.

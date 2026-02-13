@@ -1,1 +1,0 @@
-When a creature has the Vulnerable condition, all rolls against them have advantage.

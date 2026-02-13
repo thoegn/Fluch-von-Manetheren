@@ -1,1 +1,0 @@
-Subtract a d6 disadvantage die from your roll.
