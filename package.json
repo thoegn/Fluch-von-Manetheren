@@ -18,7 +18,7 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "publish": "rmdir /s /q content && xcopy \"C:\\Users\\tobia\\Dropbox\\Apps\\remotely-save\\TTRPG\\Daggerheart\\Fluch von Manetheren\\*\" content\\ /E /I /Y && npx quartz build"
+    "publish": "rmdir /s /q content && xcopy \"C:\\Users\\tobia\\Dropbox\\Apps\\remotely-save\\TTRPG\\Daggerheart\\Fluch von Manetheren\\*\" content\\ /E /I /Y && npx quartz sync"
   },
   "engines": {
     "npm": ">=10.9.2",
