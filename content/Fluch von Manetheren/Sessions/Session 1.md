@@ -7,7 +7,7 @@ location: "[[Terrinsfähre]]"
 date: 2026-01-05
 tags:
 ---
-Kommen nördlich des [[Zweiflussland|Zweiflusslandes]] an und warten auf Fähre (einziger Weg rein, unklar ob nur von oben oder prinzipiell, fährenbesitzer [[Markus Dowtry]], sketchy Person beklaut uns (angeblich von [[Devinsritt]], einer der [[Lewin]], lauter Schurken und Diebe in [[Devinsritt]]), [[Ewig]], [[Oneiroi]] und [[Ide Ismene]] laufen hinterher, während [[Tobur Bo'Botur]] am Markt herumschlendert & dann in der Bar landet und von [[Billy Dowtry]] eingeladen wird, der ihm von der Ankunft vieler [[Weißmäntel]]diesen Nachmittag erzählt, sketchyperson leider davon gekommen (aber hab mir seinen Größe und Laufart gemerkt zum wieder erkennen), (Behüterumhang, keine gute Fraktion)
+%%Kommen nördlich des [[Zweiflussland|Zweiflusslandes]] an und warten auf Fähre (einziger Weg rein, unklar ob nur von oben oder prinzipiell, fährenbesitzer [[Markus Dowtry]], sketchy Person beklaut uns (angeblich von [[Devinsritt]], einer der [[Lewin]], lauter Schurken und Diebe in [[Devinsritt]]), [[Ewig]], [[Oneiroi]] und [[Ide Ismene]] laufen hinterher, während [[Tobur Bo'Botur]] am Markt herumschlendert & dann in der Bar landet und von [[Billy Dowtry]] eingeladen wird, der ihm von der Ankunft vieler [[Weißmäntel]]diesen Nachmittag erzählt, sketchyperson leider davon gekommen (aber hab mir seinen Größe und Laufart gemerkt zum wieder erkennen), (Behüterumhang, keine gute Fraktion)
 [[Billy Dowtry]], fährenbesitzer mit Bruder, [[Devinsritt]] nicht sehr gut angesehen, erwarten eine Delegation von Weißmäntel(religiöse Ordnung, nicht den besten Ruf), 
 [[Aemin Marvins]] ist Tavernenbesitzer, höre aus der Küche (beim abwaschen) Musik und tanzen und deshalb keine Gespräche, Typ mit 3 goldenen knoten + einer mit 2 ([[Hauptmann Pria]]) Rufen sehr selbstverständlich nach Service, wollen Richtung [[Wachhügel]] Lager aufschlagen, [[Ide Ismene]] redet mit "edlen" Mann in der Ecke ([[Weißmäntel]]), "darf" nicht Bier trinken, gibt "[[Weißmäntel]]-Bibel", [[Weißmäntel]] auf der Suche nach Tuatahan(nomadenvolk) zum verhaften weil angeblich "Schattenfreunde", in Wirklichkeit nur schwarzes Schaf da,it sie da sein dürfen, verlassen am nächsten Tag Richtung Wachhügel, sehen verlassende Bauernhöfe und ein neu überfallenes, finden spuren, sehr groß, riecht nach Feuer, großes Menschen ähnliches Wesen 2,70m, Schweinsschnauze, Ziegen Hörner, Axt sehr groß mit Dornen , "rogu", besiegt, aber nur einer von mehreren?
 
@@ -17,7 +17,7 @@ Kommen nördlich des [[Zweiflussland|Zweiflusslandes]] an und warten auf Fähre 
 
 [[Weißmäntel]]: Tod sei Belohnung?, Orden vor langer Zeit gegründet um Leute die dem schatten dienen zu töten, "kreuzritter", vor langer Zeit "schattenkriege", heute keine Bedrohung vor mehr von Schatten, Zerstörung manetherens vor 1000 Jahren maybe auch von Schattenfreunden
 
-Schön zusammen geschrieben:
+Schön zusammen geschrieben:%%
 Wo sind wir?  
 Die Gruppe reist in das heutige Zweiflussland ein, ein Gebiet, das auf den Ruinen des alten Reiches Manetheren steht, von dem heute nur noch wenige wissen. Ihr kommt aus dem Norden an einer Fährstelle an, die der Familie Dowtry gehört, und steht am Anfang des „Fluchs von Manetheren“.
 

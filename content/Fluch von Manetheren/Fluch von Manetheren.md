@@ -7,7 +7,6 @@ tags:
   - Daggerheart
   - FvM
 ---
-
 # Fluch von Manetheren
 
 Eine Kampagne im heutigen Zweiflussland, das auf den Ruinen des einstigen Reiches Manetheren steht. Vor etwa 1000 Jahren wurde Manetheren in einem großen Kampf verraten und vernichtet, heute erinnern sich nur noch wenige an seine wahre Geschichte.
