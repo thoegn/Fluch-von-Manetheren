@@ -8,6 +8,17 @@ tags:
   - FvM
   - PC
 ---
+> [!infobox|right wikipedia]
+> # Ewig
+> ![[Placeholder.png|cover hsmall]]
+> ###### Ancestry
+> | Ancestry | Feature |
+> | ---- | ---- |
+> | [[Firbolg\|Domnu]] | [[Charge]] |
+> | [[Clank]] | [[Efficient]] |
+> ###### Status
+> | Alive? | Yes |
+> |----|----|
 # Ewig
 
 Spielercharakter.

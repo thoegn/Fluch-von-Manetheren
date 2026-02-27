@@ -10,6 +10,17 @@ tags:
   - FvM
   - PC
 ---
+> [!infobox|right wikipedia]
+> # Ide Ismene
+> ![[Placeholder.png|cover hsmall]]
+> ###### Ancestry
+> | Ancestry | Feature |
+> | ---- | ---- |
+> | [[Faerie]] | [[Luckbender]] |
+> |  | [[Wings]] |
+> ###### Status
+> | Alive? | Yes |
+> |----|----|
 # Ide Ismene
 
 Spielercharakter.

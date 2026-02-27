@@ -10,6 +10,17 @@ tags:
   - FvM
   - PC
 ---
+> [!infobox|right wikipedia]
+> # Tobur Bo'Botur
+> ![[Placeholder.png|cover hsmall]]
+> ###### Ancestry
+> | Ancestry | Feature |
+> | ---- | ---- |
+> | [[Galapa]] | [[Shell]] |
+> |  | [[Reach]] |
+> ###### Status
+> | Alive? | Yes |
+> |----|----|
 # Tobur Bo'Botur
 
 Spielercharakter.

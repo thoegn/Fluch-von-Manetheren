@@ -10,6 +10,18 @@ tags:
   - FvM
   - PC
 ---
+> [!infobox|right wikipedia]
+> # Oneiroi
+> ![[Oneiroi.png|cover hsmall]]
+> ###### Ancestry
+> | Ancestry | Feature |
+> | ---- | ---- |
+> | Ribbet | [[Amphibious]] |
+> | Fungril | [[Death Connection]] |
+> ###### Status
+> | Alive? | Yes |
+> |----|----|
+
 # Oneiroi
 
 Auch „Oni“ genannt. Spielercharakter.
