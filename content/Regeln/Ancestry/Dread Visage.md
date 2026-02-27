@@ -1,0 +1,1 @@
+You have advantage on rolls to intimidate hostile creatures.

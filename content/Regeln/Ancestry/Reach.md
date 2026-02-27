@@ -1,0 +1,1 @@
+Treat any weapon, ability, spell, or other feature that has a Melee range as though it has a Very Close range instead.

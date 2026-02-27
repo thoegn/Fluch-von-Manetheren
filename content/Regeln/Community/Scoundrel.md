@@ -1,0 +1,1 @@
+You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide.

@@ -1,0 +1,1 @@
+Make an Agility Roll to scratch a target within Melee range. On a success, they become temporarily Vulnerable.

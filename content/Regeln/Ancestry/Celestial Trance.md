@@ -1,0 +1,1 @@
+During a rest, you can drop into a trance to choose an additional downtime move.

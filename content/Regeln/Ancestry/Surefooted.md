@@ -1,0 +1,1 @@
+You ignore disadvantage on Agility Rolls.

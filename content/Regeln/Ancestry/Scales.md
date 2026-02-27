@@ -1,0 +1,1 @@
+Your scales act as natural protection. When you would take Severe damage, you can mark a Stress to mark 1 fewer Hit Points.

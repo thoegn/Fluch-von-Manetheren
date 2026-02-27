@@ -1,0 +1,1 @@
+Gain an additional Hit Point slot at character creation.

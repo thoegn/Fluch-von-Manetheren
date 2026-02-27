@@ -1,0 +1,1 @@
+Armor Slots can’t be marked to reduce this damage.

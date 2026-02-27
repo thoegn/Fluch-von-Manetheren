@@ -1,0 +1,1 @@
+Each class is made up of two domains. You choose your abilities and spells from these domains.

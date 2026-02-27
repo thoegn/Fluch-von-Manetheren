@@ -1,0 +1,1 @@
+When you take a short rest, you can choose a long rest move instead of a short rest move.

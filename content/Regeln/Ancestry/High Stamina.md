@@ -1,0 +1,1 @@
+Gain an additional Stress slot at character creation.
