@@ -12,7 +12,7 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > # Ide Ismene
-> ![[Placeholder.png|cover hsmall]]
+> ![[Placeholder.png]]
 > ###### Ancestry
 > | Ancestry | Feature |
 > | ---- | ---- |

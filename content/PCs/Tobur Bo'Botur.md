@@ -12,7 +12,7 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > # Tobur Bo'Botur
-> ![[Placeholder.png|cover hsmall]]
+> ![[Placeholder.png]]
 > ###### Ancestry
 > | Ancestry | Feature |
 > | ---- | ---- |

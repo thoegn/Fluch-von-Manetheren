@@ -10,7 +10,7 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > # Ewig
-> ![[Placeholder.png|cover hsmall]]
+> ![[Placeholder.png]]
 > ###### Ancestry
 > | Ancestry | Feature |
 > | ---- | ---- |

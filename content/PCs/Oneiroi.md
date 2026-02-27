@@ -12,7 +12,7 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > # Oneiroi
-> ![[Oneiroi.png|cover hsmall]]
+> ![[Oneiroi.png]]
 > ###### Ancestry
 > | Ancestry | Feature |
 > | ---- | ---- |
