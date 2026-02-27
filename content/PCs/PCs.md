@@ -11,7 +11,7 @@ tags:
 
 Sammlung aller Spielercharaktere der Kampagne.
 
-- [[Ewig]] (ich)
-- [[Ide Ismene]] (Emma)
-- [[Oneiroi]] (Julia)
-- [[Tobur Bo'Botur]] (Nora)
+- [[Ewig]], (ich)
+- [[Ide Ismene]], (Emma)
+- [[Oneiroi]], (Julia)
+- [[Tobur Bo'Botur]], (Nora)
