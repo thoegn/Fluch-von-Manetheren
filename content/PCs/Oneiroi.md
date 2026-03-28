@@ -36,9 +36,12 @@ Auch „Oni“ genannt. Spielercharakter.
 
 ## Wichtige Momente
 
-- Session 1:
+- [[Session 1]]:
   - Verfolgt zusammen mit [[Ewig]] und [[Ide Ismene]] den Dieb aus [[Devinsritt]].
   - Siehe [[Sessions/Session 1]].
+- [[Session 2]]:
+  - „Fieber“ (Seherin gerufen).
+  - Greift Leiche mit rotem Stein‑Dolch an.
 Gespielt von Julia.
 Warlock, endless?
 

@@ -35,11 +35,13 @@ Spielercharakter.
 
 ## Wichtige Momente
 
-- Session 1:
-  - Schlendert über den Markt im [[Außenposten]].
-  - Landet in der Taverne und wird von [[Billy Dowtry]] eingeladen.
-  - Erfährt von der Ankunft einer größeren Gruppe [[Weißmäntel]] am Nachmittag.
-  - Siehe [[Sessions/Session 1]].
+- [[Session 1]]:
+	- Schlendert über den Markt im [[Außenposten]].
+	- Landet in der Taverne und wird von [[Billy Dowtry]] eingeladen.
+	- Erfährt von der Ankunft einer größeren Gruppe [[Weißmäntel]] am Nachmittag.
+- [[Session 3]]:
+	- Tobonius (Kind aus Wachhügel, kennt Tobur vom Helfen).
+	- Stofffetzen von Tobur von Schattenhund geraubt.
 Gespielt von Nora.
 
 Konnex mit [[Ewig]]

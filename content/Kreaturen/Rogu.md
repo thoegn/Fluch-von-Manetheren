@@ -11,6 +11,7 @@ tags:
 # Rogu
 
 Rogu ist der Name einer großen, monströsen Kreatur, der die Gruppe bei einem überfallenen Bauernhof begegnet ist.
+Nun gelernt, dass er ein [[Trollocks]] ist.
 
 ## Erscheinung
 
@@ -31,6 +32,13 @@ Rogu ist der Name einer großen, monströsen Kreatur, der die Gruppe bei einem �
 - Findet dort Rogus Spuren und folgt ihnen.
 - Trifft Rogu und besiegt ihn im Kampf.
 - Es besteht der Verdacht, dass Rogu nicht das einzige Wesen dieser Art oder in diesem Auftrag ist.
+
+## Angst‑Vision ([[Session 2]])
+
+- Dunkle Schlucht, schwarzer Berg/Vulkan.
+- Halb Mensch, halb Tier.
+- Gefühl, dass Knochen herauswachsen.
+- Horde von Bösewichtern nach Osten.
 
 ## Verweise
 

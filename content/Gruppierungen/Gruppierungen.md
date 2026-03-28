@@ -19,5 +19,6 @@ Sammlung aller wichtigen Fraktionen, Orden und Familien im Zweiflussland und dar
 - [[Behüter]]
 - [[Lewin]]
 - [[Weißmäntel]]
+	- [[Desertierte Weißmäntel]]
 - [[Tuatahan]]
 - [[Schattenfreunde und Schattenkriege]]

@@ -20,6 +20,12 @@ Sammlung aller wichtigen Nicht-Spieler-Charaktere der Kampagne.
 - [[Markus Dowtry]]
 - [[Edler Weißmantel]]
 - [[Dieb aus Devinsritt (Lewin)]]
+- [[Seherin]]
+- [[Bürgermeisterpaar]]
+- [[Verin Sedei]]
+- [[Perrin]]
+- [[Tobonius]]
+- 
 
 
 

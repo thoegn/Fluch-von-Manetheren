@@ -13,3 +13,7 @@ tags:
 Sammlung besonderer Kreaturen und Monster, denen die Gruppe begegnet.
 
 - [[Rogu]]
+- [[Trollocks]]
+- [[Schattenhunde]]
+- [[Wölfe]]
+- 
