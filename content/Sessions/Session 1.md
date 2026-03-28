@@ -4,7 +4,7 @@ SessionNr.: 1
 world:
 campaign: '"Fluch von Manetheren"'
 location: "[[Terrinsfähre]]"
-date: 2026-01-05
+date: 2026-05-05
 tags:
 ---
 %%Kommen nördlich des [[Zweiflussland|Zweiflusslandes]] an und warten auf Fähre (einziger Weg rein, unklar ob nur von oben oder prinzipiell, fährenbesitzer [[Markus Dowtry]], sketchy Person beklaut uns (angeblich von [[Devinsritt]], einer der [[Lewin]], lauter Schurken und Diebe in [[Devinsritt]]), [[Ewig]], [[Oneiroi]] und [[Ide Ismene]] laufen hinterher, während [[Tobur Bo'Botur]] am Markt herumschlendert & dann in der Bar landet und von [[Billy Dowtry]] eingeladen wird, der ihm von der Ankunft vieler [[Weißmäntel]]diesen Nachmittag erzählt, sketchyperson leider davon gekommen (aber hab mir seinen Größe und Laufart gemerkt zum wieder erkennen), (Behüterumhang, keine gute Fraktion)

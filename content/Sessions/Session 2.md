@@ -3,7 +3,7 @@ type: Session
 SessionNr.: 2
 campaign: '"Fluch von Manetheren"'
 location: Wachhügel
-date:
+date: 2026-05-06
 tags:
   - Daggerheart
   - Session
@@ -20,7 +20,7 @@ tags:
 > - Prüfen, ob es noch weitere Rogu gibt und wer dahintersteckt.
 
 
-Notizen: ist jetzt bald dunkel in 1h, ewig heilt tobur und fragt wieso er so robust ist, [[Ide Ismene]] untersucht [[Rogu]], haut Mischung verschiedener Tiere und Menschen, aber nahtlos, wie als würden sich Menschen in Tiere verwandeln, [[Oneiroi]], nach Spuren sind 40-50, fängt an zu schütten, wir rasten und gehen dann Richtung [[Wachhügel]], sind dann iwann nah genug wo wir’s normalerweise sehen könnten, aber wegen Regen noch nicht, [[Wachhügel]] hat außen große Bauernhöfe, ein zweistöckiges Gebäude "Schenke zum Hügel", Mann hinterm Tresen, Dame serviert, Mann ist nicht hilfreich und vermutet dass die Brände mit den weißmänteln zu tun haben, bissi hässig gegenüber Leuten außerhalb des zweiflusslandes, Seherin kommt rein (wegen oni s "Fieber"), terrinsfähre am meisten Handel, rogumaybe Trollocks?(eigentlich mehr Kinder Geschichte), verwendet in schattenkriegen,  Seherin überhaupt nicht hilfreich, Horn in Dorf, Leute laufen weg,einige große Gestalten,  5 gestalten, 2 wie  schreien isam, die anderen "nur" groß 1,90m,tragen weiße Mäntel(goldene Sonne am Mantel rot angemalt, Knoten runter gerissen schreien Faden, verfolgen die weglaufenden Leute, Kampf, der mit rotem Mantel zaubert Feuerball, finde an den trollocks kochutensilien mit Haaren (schaut aus wie von Menschen), 4 Handvoll Gold gefunden, tobur 24 Kohl
+Notizen: ist jetzt bald dunkel in 1h, ewig heilt tobur und fragt wieso er so robust ist, [[Ide Ismene]] untersucht [[Rogu]], haut Mischung verschiedener Tiere und Menschen, aber nahtlos, wie als würden sich Menschen in Tiere verwandeln, [[Oneiroi]] sucht nach Spuren sind 40-50, fängt an zu schütten, wir rasten und gehen dann Richtung [[Wachhügel]], sind dann iwann nah genug wo wir’s normalerweise sehen könnten, aber wegen Regen noch nicht, [[Wachhügel]] hat außen große Bauernhöfe, ein zweistöckiges Gebäude "Schenke zum Hügel", Mann hinterm Tresen, Dame serviert, Mann ist nicht hilfreich und vermutet dass die Brände mit den weißmänteln zu tun haben, bissi hässig gegenüber Leuten außerhalb des zweiflusslandes, Seherin kommt rein (wegen oni s "Fieber"), terrinsfähre am meisten Handel, rogu maybe Trollocks?(eigentlich mehr Kinder Geschichte), verwendet in schattenkriegen,  Seherin überhaupt nicht hilfreich, Horn in Dorf, Leute laufen weg, einige große Gestalten,  5 gestalten, 2 wie schreien "isam", die anderen "nur" groß 1,90m,tragen weiße Mäntel (goldene Sonne am Mantel rot angemalt, Knoten runter gerissen schreien Faden, verfolgen die weglaufenden Leute, Kampf, der mit rotem Mantel zaubert Feuerball, finde an den trollocks kochutensilien mit Haaren (schaut aus wie von Menschen), 4 Handvoll Gold gefunden, tobur 24 Kohl
 
 Zusammenfassung:
 
