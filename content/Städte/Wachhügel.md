@@ -26,7 +26,7 @@ Der Wachhügel ist ein strategisch oder symbolisch wichtiger Ort im Zweiflusslan
 
 - In der Nähe liegen Bauernhöfe, von denen einige verlassen oder kürzlich überfallen wurden.
 - In dieser Gegend ist die Gruppe einem [[Rogu]] begegnet.
-## Traum‑Wachhügel ([[Session 3]])
+## Traum‑Wachhügel ([[Session 2.5]])
 - Verzerrte Traumwelt während realem Wiederaufbau.
 - Türen/Fenster öffnen sich allein, bleiben länger offen.
 - Tageszeit nicht erkennbar, fremde Gegenstände nicht beweglich.

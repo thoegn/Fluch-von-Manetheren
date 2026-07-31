@@ -25,7 +25,7 @@ Beängstigende Hunde aus der Traum‑Wachhügel‑Vision.
 - Greifen in Traum‑Taverne an.
 - Wölfe stellen sie um, dezimieren sie.
 - Ein stirbt, ein anderer flieht mit Toburs Stofffetzen.
-- Siehe [[Sessions/Session 3]].
+- Siehe [[Session 2.5]].
 
 ## Verweise
 

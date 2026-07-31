@@ -25,5 +25,5 @@ Ein Wolfsrudel, das die Gruppe in der Traum‑Wachhügel‑Vision rettet.
 
 ## Verweise
 
-- [[Sessions/Session 3]]
+- [[Session 2.5]]
 - [[Schattenhunde]]

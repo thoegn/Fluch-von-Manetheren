@@ -1,0 +1,1 @@
+gruppenführer von trollocks, in Acht nehmen, besonders wenn’s 13 sind, immer Hoffnung behalten, weil sonst wird man gelähmt, paralysed?

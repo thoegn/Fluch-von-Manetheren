@@ -22,6 +22,6 @@ Filigraner Bogen‑Tor mit Natur‑Verzierung aus Wolfs‑Vision.
 
 ## Verweise
 
-- [[Sessions/Session 3]]
+- [[Session 2.5]]
 - [[Wölfe]]
 - [[Trollocks]]

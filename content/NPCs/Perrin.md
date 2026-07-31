@@ -21,6 +21,6 @@ Ein mysteriöser Schmied, den die Wölfe Ewig in Vision zeigen.
 
 ## Verweise
 
-- [[Sessions/Session 3]]
+- [[Session 2.5]]
 - [[Wölfe]]
 - [[Hain-Tor]]

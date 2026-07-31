@@ -35,7 +35,7 @@ Spielercharakter.
 
 - [[Session 1]]:
 	- Nimmt an der Verfolgung des Diebs aus [[Devinsritt]] teil.
-- [[Session 3]]:
+- [[Session 2.5]]:
 	- Dankbarkeit an Wölfe → Vision: Großer Schmied („Suche Perrin, der rasende Bulle").
 	- Hain‑Tor‑Warnung: Augenloser Kapuzenmann mit Trollocks, Reiter (Grenzländer), in 2 Tagen?
 

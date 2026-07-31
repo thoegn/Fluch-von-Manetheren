@@ -39,7 +39,7 @@ Spielercharakter.
 	- Schlendert über den Markt im [[Außenposten]].
 	- Landet in der Taverne und wird von [[Billy Dowtry]] eingeladen.
 	- Erfährt von der Ankunft einer größeren Gruppe [[Weißmäntel]] am Nachmittag.
-- [[Session 3]]:
+- [[Session 2.5]]:
 	- Tobonius (Kind aus Wachhügel, kennt Tobur vom Helfen).
 	- Stofffetzen von Tobur von Schattenhund geraubt.
 Gespielt von Nora.
